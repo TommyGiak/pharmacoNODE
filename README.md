@@ -1,7 +1,7 @@
 
 | **Authors**  | **Project** | **License** |
 |:------------:|:-----------:|:-----------:|
-| [**T. Giacometti**](https://github.com/TommyGiak) | **pharmacoNODE**<br> | [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/TommyGiak/pharmacoNODE/blob/main/LICENSE) |
+| [**T. Giacometti**](https://github.com/TommyGiak) | **pharmacoNODE**<br> | [![license](https://img.shields.io/github/license/TommyGiak/pharmacoNODE.svg)](https://github.com/TommyGiak/pharmacoNODE/blob/main/LICENSE) |
 
 <a href="https://github.com/UniboDIFABiophysics">
   <div class="image">
@@ -129,7 +129,7 @@ See also the list of [contributors](https://github.com/TommyGiak/TommyGiak/contr
 
 ## Citation
 
-If you have found `pharmacoNODE` helpful in your research, please consider citing the original paper about the wound image segmentation
+If you have found `pharmacoNODE` helpful in your research, please consider citing the original paper about the NODE on dalbavancin:
 
 ```BibTex
 
