@@ -132,5 +132,15 @@ See also the list of [contributors](https://github.com/TommyGiak/TommyGiak/contr
 If you have found `pharmacoNODE` helpful in your research, please consider citing the original paper about the NODE on dalbavancin:
 
 ```BibTex
-
+@article{Giacometti2025,
+  author = {Giacometti, Tommaso and Rocchi, Ettore and Cojutti, Pier Giorgio and Magnani, Federico and Remondini, Daniel and Pea, Federico and Castellani, Gastone},
+  title = {Leveraging Neural ODEs for Population Pharmacokinetics of Dalbavancin in Sparse Clinical Data},
+  journal = {Entropy},
+  volume = {27},
+  number = {6},
+  pages = {602},
+  year = {2025},
+  doi = {10.3390/e27060602},
+  url = {https://doi.org/10.3390/e27060602}
+}
 ```
